@@ -1,8 +1,8 @@
 {
-    "app_id": "triggers_realmapp-fftza",
+    "app_id": "mellolink-exrhb",
     "config_version": 20210101,
-    "name": "Triggers_RealmApp",
-    "location": "US-VA",
-    "deployment_model": "GLOBAL",
+    "name": "Mellolink",
+    "location": "SG",
+    "deployment_model": "LOCAL",
     "environment": "production"
 }

@@ -1,0 +1,10 @@
+{
+    "name": "Connector",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Blue-Nirion-Galactica",
+        "readPreference": "primary",
+        "wireProtocolEnabled": true
+    },
+    "version": 1
+}

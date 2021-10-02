@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "custom_domain": "mellolink.com",
+    "app_default_domain": "mellolink-exrhb.mongodbstitch.com",
+    "default_error_path": "",
+    "default_error_code": ""
+}
