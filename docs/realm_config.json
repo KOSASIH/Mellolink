@@ -4,5 +4,12 @@
     "name": "Mellolink",
     "location": "SG",
     "deployment_model": "LOCAL",
-    "environment": "production"
+    "environment": "production",
+    "allowed_request_origins": [
+        "https://www.google.com",
+        "http://www.firefox.com",
+        "http://www.bing.com",
+        "http://www.yandex.com",
+        "https://chrome.com"
+    ]
 }
